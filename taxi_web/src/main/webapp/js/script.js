@@ -1,6 +1,4 @@
-/**
- * Created by oleg on 27.07.15.
- */
+
 var req;
 function init() {
     req = new XMLHttpRequest();

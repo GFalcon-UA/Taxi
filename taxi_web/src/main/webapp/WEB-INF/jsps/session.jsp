@@ -1,12 +1,3 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: oleg
-  Date: 20.07.15
-  Time: 19:46
-  To change this template use File | Settings | File Templates.
---%><%--
-  страница с формой аутентификации
---%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>

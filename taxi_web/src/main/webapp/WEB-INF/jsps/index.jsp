@@ -1,40 +1,9 @@
-<%--
---%>
+
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
     <title></title>
-    <%--<style>
-        body {
-            background: #f06d06;
-            font-size: 80%;
-            padding: 20px;
-        }
 
-        main {
-            position: relative;
-            background: white;
-            height: 200px;
-            width: 60%;
-            margin: 0 auto;
-            padding: 20px;
-            resize: both;
-            overflow: auto;
-        }
-
-        main div {
-            background: black;
-            color: white;
-            width: 50%;
-            transform: translate(-50%, -50%);
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            padding: 20px;
-            resize: both;
-            overflow: auto;
-        }
-    </style>--%>
     <script>
         var loginUniqueCheckRequest = new XMLHttpRequest();
         loginUniqueCheckRequest.onreadystatechange = function () {

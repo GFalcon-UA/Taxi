@@ -5,7 +5,6 @@
 </head>
 <body>
 <h3>${mess}</h3>
-
 <form action="/redactOperator.html" method="GET">
 
     <table>

@@ -1,10 +1,4 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: User
-  Date: 17.07.2015
-  Time: 13:35
-  To change this template use File | Settings | File Templates.
---%>
+
 
 <%@ page import="taxi.domain.Client" %>
 <%@ page import="java.util.List" %>

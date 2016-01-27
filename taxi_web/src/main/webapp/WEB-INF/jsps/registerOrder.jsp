@@ -1,9 +1,6 @@
 <%@ page import="taxi.domain.Client" %>
 <%@ page import="taxi.domain.TaxiDriver" %>
 <%@ page import="java.util.List" %>
-<%--
-  форма оформления/редактирования заказа
---%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
